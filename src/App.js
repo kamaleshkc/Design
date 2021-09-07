@@ -135,7 +135,7 @@ function App() {
         <div className="card-items">
             <div className="sub-items">
                 <div className="flex-item-left">
-                        Discount on items(Normal Discount)
+                       Free Pepsi on orders above Rs 250
                 </div>
                 <div className="flex-item-right-las">
                         :
@@ -217,7 +217,7 @@ function App() {
         <div className="card-items">
             <div className="sub-items">
                 <div className="flex-item-left">
-                        Discount on items(Normal Discount)
+                    50% off on order above Rs 300
                 </div>
                 <div className="flex-item-right-las">
                         :
@@ -535,9 +535,7 @@ function App() {
               
                 
             </div>
-                
-
-                
+                               
 
 
 

@@ -45,8 +45,10 @@ hr.rounded {
     color: white;
     display: flex;
     flex-direction: row;
+    cursor: pointer;
 }
 .red-btn{
+    
     background-color: #bc110b;
     border: none;
     color: white;
